@@ -1,0 +1,24 @@
+
+	.wrap {
+
+  	padding: 10px;
+  	inline-size: 150px;
+  	text-align: justify;
+	}
+   
+    Body {  background-color: blue;
+	    color: silver; 
+	    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.container {
+  display: flex;
+  flex-direction:row;
+  background-color: linear-gradient(silver, darkblue);
+}
+
+.container div {
+    margin: 5px;
+    padding: 5px;
+}
+
